@@ -22,7 +22,7 @@ if __name__ == "__main__":
 
     train, test = train_test_split(data)
 
-    # The predicted column is "quality" which is a scalar from [3, 9]    train_x = train[["age","fare","body"]]
+    train_x = train[["age","fare","body"]]
     test_x = test[["age","fare","body"]]
     train_y = train[["survived"]]
     test_y = test[["survived"]]
