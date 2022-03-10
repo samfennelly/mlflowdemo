@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sfennelly/Documents/Anthem/mlflowdemo/mlruns/0/1332375817914a4f9227680219560742/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 1332375817914a4f9227680219560742
+run_uuid: 1332375817914a4f9227680219560742
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1646877062572
+status: 1
+tags: []
+user_id: sfennelly
