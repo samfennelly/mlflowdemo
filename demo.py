@@ -28,8 +28,12 @@ if __name__ == "__main__":
     test_y = test[["survived"]]
 
     model = LogisticRegression().fit(train_x, train_y)
+    
+    predictions = model.predict(test_x)
 
     rmse, mae, r2 = eval_metrics(test_y,predictions)
+    
+    
 
     mlflow.log_metric("rmse", rmse)
     mlflow.log_metric("r2", r2)
