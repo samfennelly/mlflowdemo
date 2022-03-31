@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sfennelly/Documents/Anthem/Asset/mlruns/0/ee01c067383d47f3b8c27c3f130a396f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: ee01c067383d47f3b8c27c3f130a396f
+run_uuid: ee01c067383d47f3b8c27c3f130a396f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1648686811790
+status: 1
+tags: []
+user_id: sfennelly
